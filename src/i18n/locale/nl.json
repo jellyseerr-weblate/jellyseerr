@@ -1538,5 +1538,16 @@
   "components.Settings.seriesMetadataProvider": "Metadataprovider series",
   "components.Settings.tmdbProviderDoesnotWork": "De provider TMDB werkt niet; selecteer een andere",
   "components.Settings.tvdbProviderDoesnotWork": "De provider TVDB werkt niet; selecteer een andere",
-  "components.UserProfile.UserSettings.UserNotificationSettings.UserNotificationsWebPush.created": "Aangemaakt"
+  "components.UserProfile.UserSettings.UserNotificationSettings.UserNotificationsWebPush.created": "Aangemaakt",
+  "components.Selector.CertificationSelector.errorLoading": "Kon certificaten niet laden",
+  "components.Selector.CertificationSelector.maxRating": "Maximum beoordeling",
+  "components.Selector.CertificationSelector.minRating": "Minimum beoordeling",
+  "components.Settings.Notifications.NotificationsNtfy.ntfysettingsfailed": "Ntfy notificatie-instellingen konden niet worden opgeslagen.",
+  "components.Settings.Notifications.NotificationsNtfy.ntfysettingssaved": "Ntfy notificatie-instellingen succesvol opgeslagen!",
+  "components.Settings.Notifications.NotificationsNtfy.tokenAuth": "Tokenauthenticatie",
+  "components.Settings.Notifications.NotificationsNtfy.topic": "Onderwerp",
+  "components.Settings.Notifications.NotificationsNtfy.username": "Gebruikersnaam",
+  "components.Settings.Notifications.NotificationsNtfy.usernamePasswordAuth": "Gebruikersnaam + Wachtwoord authenticatie",
+  "components.Settings.Notifications.NotificationsNtfy.validationNtfyTopic": "Je moet een onderwerp invullen",
+  "components.Settings.Notifications.NotificationsNtfy.validationNtfyUrl": "Je moet een geldige URL invullen"
 }
